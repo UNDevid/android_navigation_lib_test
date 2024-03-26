@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigationChangeRouteTest</string>
+    <string name="MAPS_API_KEY">TODO_FILL_WITH_YOUR_OWN_API_KEY</string>
+</resources>
